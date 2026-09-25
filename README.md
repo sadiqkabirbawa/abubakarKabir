@@ -35,7 +35,9 @@ First-Class Software Engineering Graduate (4.88/5.00) passionate about leveragin
    * *Tech Stack:* Python + SQL + Statistics 
    * *[View Repository](link-to-repo)*
 ---
-
+Ausu-Mssn-Digital-Repository
+Public
+This is a digital repository designed for Mssn Ausu branch comprising three main features which are: Online donation, Annoucements and Islamic teachings repository
 
 ### 📫 Let's Connect
 * **Email:** sadiqkabirskb@gmail.com
