@@ -20,12 +20,22 @@ First-Class Software Engineering Graduate (4.88/5.00) passionate about leveragin
    * *Tech Stack:* Python , Statistics
    * *[View Repository](link-to-repo)*
 
-2. **[Project Name 2 - e.g., University Web Portal / Management System]**
-   * *Description:* A full-stack web application designed to streamline administrative workflows and data tracking.
-   * *Tech Stack:* HTML/CSS, JavaScript, Python
+2. **Employee Workforce Analysis**
+   * *Description:* A compact SQL + Python + statistics project for practicing relational data analysis.
+   * *Tech Stack:* Python + SQL + Statistics 
    * *[View Repository](link-to-repo)*
 
+3. **Online Retail Sales Analysis**
+   * *Description:* A compact SQL + Python + statistics project using transaction data from an online retailer.
+   * *Tech Stack:* Python + SQL + Statistics 
+   * *[View Repository](link-to-repo)*
+
+4. **Online Retail Sales Analysis**
+   * *Description:* A compact SQL + Python + statistics project using transaction data from an online retailer.
+   * *Tech Stack:* Python + SQL + Statistics 
+   * *[View Repository](link-to-repo)*
 ---
+
 
 ### 📫 Let's Connect
 * **Email:** sadiqkabirskb@gmail.com
