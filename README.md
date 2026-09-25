@@ -30,14 +30,30 @@ First-Class Software Engineering Graduate (4.88/5.00) passionate about leveragin
    * *Tech Stack:* Python + SQL + Statistics 
    * *[View Repository](link-to-repo)*
 
-4. **Online Retail Sales Analysis**
-   * *Description:* A compact SQL + Python + statistics project using transaction data from an online retailer.
-   * *Tech Stack:* Python + SQL + Statistics 
+4. **Digital Repository for MSSN AlIstiqamah University Branch**
+   * *Description:* This is a digital repository designed for Mssn Ausu branch comprising three main features which are: Online donation, Annoucements and Islamic teachings repository
+   * *Tech Stack:* Backend: Node.js, Express.js
+Templating: EJS
+Database: Sequelize ORM (MySQL/Postgres/SQLite supported)
+UI: Bootstrap 5 + Bootstrap Icons and CSS
+RBAC: Roles & Permissions model with UserRole and RolePermission tables
+Payments: Paystack API integration
    * *[View Repository](link-to-repo)*
 ---
 Ausu-Mssn-Digital-Repository
 Public
 This is a digital repository designed for Mssn Ausu branch comprising three main features which are: Online donation, Annoucements and Islamic teachings repository
+Backend: Node.js, Express.js
+Templating: EJS
+Database: Sequelize ORM (MySQL/Postgres/SQLite supported)
+Auth & Security:
+Session-based auth
+CSRF protection
+Helmet for security headers
+UI: Bootstrap 5 + Bootstrap Icons and CSS
+RBAC: Roles & Permissions model with UserRole and RolePermission tables
+Payments: Paystack API integration
+
 
 ### 📫 Let's Connect
 * **Email:** sadiqkabirskb@gmail.com
