@@ -15,9 +15,9 @@ First-Class Software Engineering Graduate (4.88/5.00) passionate about leveragin
 ### 🛠️ Featured Projects
 *(Click on any repository below to view the full code, documentation, and live preview)*
 
-1. **[Project Name 1 - e.g., Sales Data Dashboard]**
-   * *Description:* A business intelligence dashboard built to analyze regional sales trends and track customer churn.
-   * *Tech Stack:* Python (Pandas), SQL, Power BI
+1. **Student Performance Analysis**
+   * *Description:* A compact Python + statistics project showing a complete data-analysis workflow
+   * *Tech Stack:* Python , Statistics
    * *[View Repository](link-to-repo)*
 
 2. **[Project Name 2 - e.g., University Web Portal / Management System]**
